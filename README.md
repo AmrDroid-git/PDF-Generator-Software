@@ -1,3 +1,6 @@
+Link to download the Setup(full software):
+https://www.mediafire.com/file/luj6cxw7czvmv8n/PDF+Generator+Setup.exe/file
+
 # PDF / DOCX / PPT Converter
 
 A simple and user-friendly file conversion tool built with **Python** and **PyQt6**.  

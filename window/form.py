@@ -147,6 +147,20 @@ class Ui_Form(object):
         row2.addWidget(self.btnGenerate)
         self.root.addLayout(row2)
 
+                # ===== footer: copyright =====
+        self.footer = QtWidgets.QLabel(parent=Form)
+        self.footer.setAlignment(QtCore.Qt.AlignmentFlag.AlignCenter)
+        self.footer.setOpenExternalLinks(True)
+        self.footer.setStyleSheet("color: #888; font-size: 15px; border:0px;")
+        self.footer.setText(
+            '<html><head/><body>'
+            '<p align="center">Created by '
+            '<a href="https://github.com/AmrDroid-git" style="color:#2196F3; text-decoration:none;">AmrDroid</a>'
+            '</p></body></html>'
+        )
+        self.root.addWidget(self.footer)
+
+        
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
