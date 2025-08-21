@@ -1,5 +1,10 @@
 Link to download the Setup(full software):
-https://www.mediafire.com/file/luj6cxw7czvmv8n/PDF+Generator+Setup.exe/file
+https://www.mediafire.com/file/luj6cxw7czvmv8n/PDF+Generator+Setup.exe
+
+Youtube video explaining how to use the software:
+https://youtu.be/oMBN-HoU-rs
+
+Subscribe bruh
 
 # PDF / DOCX / PPT Converter
 
@@ -23,8 +28,9 @@ This software allows you to convert between common document formats such as **DO
 
 Make sure you have **one** of the following installed on your system:
 
-- **Microsoft Word** (part of Microsoft Office).
-- **LibreOffice** (tested with `C:\Program Files\LibreOffice\program\soffice.exe` on Windows).
+- **Microsoft Word API** (part of Microsoft Office).
+  OR
+- **LibreOffice API** (tested with `C:\Program Files\LibreOffice\program\soffice.exe` on Windows).
 
 ### Python Dependencies
 
